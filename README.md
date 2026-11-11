@@ -1,1 +1,3 @@
-# gamelauncher-releases
+Android için Game Launcher uygulaması.
+
+İlk sürüm yayında...
